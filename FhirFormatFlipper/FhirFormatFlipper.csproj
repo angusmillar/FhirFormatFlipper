@@ -29,7 +29,7 @@
     <TargetCulture>en-AU</TargetCulture>
     <ProductName>FhirFormatFlipper</ProductName>
     <PublisherName>Angus Millar</PublisherName>
-    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationRevision>6</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
