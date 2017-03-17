@@ -59,7 +59,7 @@
     <ApplicationIcon>fhir.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>222E22D4AAC52B30ACCF2B804C4F90A1A2F378DC</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>54434752DC1A93B2BA16F360FB213534A9921E3B</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>FhirFormatFlipper_TemporaryKey.pfx</ManifestKeyFile>
@@ -147,6 +147,7 @@
     <Content Include="AvalonEditSyntaxFiles\Json.xshd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="FhirFormatFlipper_TemporaryKey.pfx" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
